@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+author: Isabel Román
+email: irm@us.es
+title: Audit4Improve
+description: > # this means to ignore newlines until "baseurl:"
+  Documentación de la API Audit4Improve, código base para la asignatura Factorías de Software, del MUIT de la US
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      theme: jekyll-theme-cayman
