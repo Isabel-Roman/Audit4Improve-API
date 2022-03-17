@@ -7,5 +7,5 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       theme: jekyll-theme-cayman
-      author: Isabel Rom·n
+      author: Isabel Rom√°n
       email: irm@us.es
